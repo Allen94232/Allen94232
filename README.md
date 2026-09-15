@@ -2,6 +2,10 @@
 
 Graduate student and developer working on mixed reality, computer graphics, interactive systems, and embodied agents.
 
+## Current Research
+
+I study situated communication in mixed reality, focusing on embodied agents that adapt their appearance, voice, narrative, spatial behavior, and timing to the user's attention and interaction context.
+
 ## Selected Projects
 
 | Project | Focus | Technologies |
